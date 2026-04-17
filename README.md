@@ -10,7 +10,7 @@ An AI agent trained to play Atari Breakout using PPO (Proximal Policy Optimizati
 1. Open the `.ipynb` file in Google Colab
 2. Run the **dependencies cell** (only need to do so once)
 3. Run the **imports cell** and connect your Google Drive when prompted
-4. Skip the training cell and load the pre-trained model (`breakout-ppo.zip`) from the repo, or train the model on your own (note: Colab has GPU time limits, so a .py version is also provided to run the program locally)
+4. Skip the training cell and load the pre-trained model (`breakout-ppo.zip`) from the repo by putting the .zip file into your Google Drive, or train the model on your own (note: Colab has GPU time limits, so a .py version is also provided to run the program locally)
 5. Run the **evaluation cell** to generate a GIF of the agent playing
 
 ---
