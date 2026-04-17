@@ -1,4 +1,4 @@
-# Reinforcement-Learning---Breakout
+# Reinforcement Learning - Breakout
 Final Project for my Machine Learning 2 Class
 
 An AI agent trained to play Atari Breakout using PPO (Proximal Policy Optimization).
